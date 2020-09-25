@@ -14,7 +14,7 @@ and open the template in the editor.
         echo "Hola alumnes";
         
         function funcion1(){
-            
+        echo "Maria";
         }
         ?>
     </body>
